@@ -1,0 +1,24 @@
+{
+  "name": "typescript-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirashoaib/typescript-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirashoaib/typescript-calculator/issues"
+  },
+  "homepage": "https://github.com/hirashoaib/typescript-calculator#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
